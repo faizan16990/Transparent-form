@@ -1,0 +1,28 @@
+
+.background, .box{
+    flex-direction: column;
+    
+}
+.background{
+    background-size: cover;
+    width: 100%;
+}
+
+
+.text{
+    margin-top: 20vh;
+    
+    justify-content: center;
+    text-align: center;
+}
+
+.box{
+    margin-top: 2vh;
+    margin-right: 5px;
+    
+    
+}
+.form{
+    margin:16px 65px;
+    
+}
